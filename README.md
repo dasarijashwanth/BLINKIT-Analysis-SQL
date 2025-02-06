@@ -1,5 +1,5 @@
 # Blinkit Sales Analysis - SQL Queries
-![](https://github.com/dasarijashwanth/BLINKIT-Analysis-SQL/blob/main/logo.png)
+![](https://github.com/dasarijashwanth/BLINKIT-Analysis-SQL/blob/main/LOGO.png)
 
 ## 📌 Overview
 This repository contains SQL queries for analyzing sales data from Blinkit, an e-commerce retail platform. The dataset includes information about various products, their sales performance, and outlet characteristics. The queries perform key performance indicator (KPI) analysis, data transformations, and aggregations to extract insights.
@@ -52,7 +52,7 @@ This project includes various SQL queries categorized into different sections:
 ## 🏆 How to Use
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/blinkit-sales-analysis.git
+   git clone https://github.com/dasarijashwanth/BLINKIT-Analysis-SQL.git
    ```
 2. Import the dataset into your SQL environment.
 3. Run the queries in sequence to analyze and visualize the data.
